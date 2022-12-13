@@ -7,7 +7,7 @@
  *Return: ALways 0 (Success)
  */
 
-int main;
+int main(void)
 {
 int n;
 srand(time(0));
