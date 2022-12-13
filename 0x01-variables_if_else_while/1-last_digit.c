@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-int main void(void)
+int main(void)
 {
 int n;
 srand(time(0));
